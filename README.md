@@ -1,1 +1,3 @@
-# testmaven
+# maven-project
+
+Simple Maven Project
